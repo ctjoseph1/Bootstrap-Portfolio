@@ -1,7 +1,15 @@
-.navbar bg-dark border-bottom border-body {
+/* .navbarNav {
     list-style-type: none;
+    display: flex; 
+    justify-content: space-around;
+    width: 300px; 
+} */
+
+.card-body{
+    height: 136px;
 }
 
-.fw-bold {
-    list-style-type: decimal;
+#about-me {
+    max-width: 751px;
 }
+
