@@ -1,5 +1,5 @@
 # Cara's Bootstrap Portoflio
-
+Link to portfolio here: https://ctjoseph1.github.io/Bootstrap-Portfolio/
 ## Description
 The project at hand is to build a portfolio layout using the Bootstrap CSS Framework.
 This project flowed smoothly in terms of formatting the styling of the page. It was a lot easier to create the aesthetic that I was looking for in comparison to the previous portfolio project. In hindsight of the previous project, it made sense to first learn the fundamentals of CSS styling without bootstrap, because the knowledge gained from this helped me to learn where to input the Bootstrap codes. 
