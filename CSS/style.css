@@ -13,3 +13,12 @@
     max-width: 751px;
 }
 
+.btn {
+  color: brown;
+    box-shadow: 10px 10px;
+}
+
+.btn ::after {
+    color: brown;
+      box-shadow: 10px 10px;
+  }
